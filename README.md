@@ -14,4 +14,4 @@
 * Python (Prophet, Pandas, NumPy, Matplotlib, Seaborn)
 
 ## Featured Notebook
-* [Time Series Forecasting using Prophet](https://dpghazi.github.io/projects/prophet_predictive_analysis.html)
+* [Time Series Forecasting using Prophet](https://dpghazi-berkeley-ds.s3.amazonaws.com/prophet-time-series-forecasting.pdf)
